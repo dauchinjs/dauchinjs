@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img src="https://user-images.githubusercontent.com/93677423/211797268-dea84b0b-60df-4190-a1b5-4fedfd4cfa3e.png" alt="php" width="200"/>
+
+
 * My name is Dāvids -/Software Developer/
 * You can see my projects in repositories
 
